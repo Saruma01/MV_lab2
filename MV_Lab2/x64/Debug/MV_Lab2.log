@@ -1,0 +1,8 @@
+﻿  MV_Lab2.cpp
+C:\Users\Admin\Documents\универ\Методы вычислений\MV_Lab2\MV_Lab2.cpp(37,29): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\Admin\Documents\универ\Методы вычислений\MV_Lab2\MV_Lab2.cpp(37,29): warning C4244:         with
+C:\Users\Admin\Documents\универ\Методы вычислений\MV_Lab2\MV_Lab2.cpp(37,29): warning C4244:         [
+C:\Users\Admin\Documents\универ\Методы вычислений\MV_Lab2\MV_Lab2.cpp(37,29): warning C4244:             _Ty=int
+C:\Users\Admin\Documents\универ\Методы вычислений\MV_Lab2\MV_Lab2.cpp(37,29): warning C4244:         ]
+C:\Users\Admin\Documents\универ\Методы вычислений\MV_Lab2\MV_Lab2.cpp(59,13): warning C4566: символ, представленный универсальным именем символа "\u2211", невозможно представить в текущей кодовой странице (1251)
+  MV_Lab2.vcxproj -> C:\Users\Admin\Documents\универ\Методы вычислений\MV_Lab2\x64\Debug\MV_Lab2.exe
